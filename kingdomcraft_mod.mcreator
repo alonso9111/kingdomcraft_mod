@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "KingdomcraftTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kingdomcraft_tab"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabkingdomcraft_tab": "Kingdomcraft Mod"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "kingdomcraft_mod",
+    "modName": "Kingdomcraft_mod",
+    "version": "1.0.0",
+    "author": "alons, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "com.alonso91cl.kingdomcraftmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
